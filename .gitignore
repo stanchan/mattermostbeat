@@ -1,0 +1,8 @@
+/.idea
+/build
+/logs
+
+.DS_Store
+/mattermostbeat
+/mattermostbeat.test
+*.pyc

@@ -1,0 +1,10 @@
+/_meta/filebeat.dev.yml
+.vagrant
+/docs/html_docs
+
+filebeat
+
+build
+_meta/kibana
+_meta/module.generated
+/tests/load/logs

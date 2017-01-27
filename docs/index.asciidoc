@@ -1,0 +1,5 @@
+= Mattermostbeat Docs
+
+Welcome to the Mattermostbeat documentation.
+
+
